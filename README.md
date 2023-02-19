@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**KurtDanielle/KurtDanielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Kurt Danielle and I'm currently in 9th grade student living in Philippines
 
-Here are some ideas to get you started:
+#### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 I'm currently learning Roblox Lua and Discord Python
+- 👨‍💻 I'm currently working on my fucking life
+- 🎮 I'm a gamer I play CS:GO,Valorant,Minecraft,GTA V,COD Warzone, League Of Legends and more!
+
+
+#### Contact me here:
+- Discord : KurtDanielle#3757
